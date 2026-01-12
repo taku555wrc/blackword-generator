@@ -1,1 +1,1 @@
-# redesigned-goggles
+# blackword-generator
